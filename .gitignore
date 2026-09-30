@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+videos/*
+!videos/.gitkeep
+
+data/*
+!data/.gitkeep
+
+.streamlit/secrets.toml
